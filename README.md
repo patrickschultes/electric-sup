@@ -1,4 +1,4 @@
-# Description about my project to drive a electric Stand Up Paddle (SUP)
+# Description about my project to drive an electric Stand Up Paddle (SUP)
 
 ![Beeeeer](Pictures/beer.jpeg)
 
@@ -78,7 +78,7 @@ When your motor spins 1000 rpm (r/min --> rotation per minute) with your battery
 
 1000 r/min * 1 cm/r = 100 m/min = 1,7 m/s = 6,1 km/h
 
-Ok but 2 questions
+Ok but 3 questions
 1. What means "brings you forward"? 
 2. What is about the fluid dynamic from the chapter above?
 3. What is about efficiency?

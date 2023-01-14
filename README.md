@@ -221,8 +221,9 @@ In the configuration of 12S6P are 72 Cells so 1,3 kWh Capacity in theory. The ce
 | 2x Spacer | [Nkon Link](https://www.nkon.nl/de/2x21700-battery-spacer-holder.html) | 33€ (74 pieces) | 13. January 2023 | - |
 | Battery Soldering Strip | [Nkon Link](https://www.nkon.nl/de/nikkel-battijersoldeerstrip-10mm-20mm.html) | 22€ (8m) | 13. January 2023 | - |
 | BMS | [Ebay Link](https://www.ebay.de/itm/124866339442) | 95€ | 13. January 2023 | - |
+| Charger| [AliExpress Link](https://de.aliexpress.com/item/1005003942168351.html?spm=a2g0o.order_list.order_list_main.5.21ef5c5fsMSNtn&gatewayAdapt=glo2deu) | 50€ | 14. January 2023 | 400W without balancing |
 
-So in Sum 450€
+So in Sum 500€
 
 
 ### Powertrain

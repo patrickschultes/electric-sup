@@ -205,7 +205,7 @@ To change it I connected the controller via an Arduino Uno.
 4. Connect to the controller with the interface "**SILABS** BLHeli Bootloader (USB/COM)"
 
 
-## Prooject V2
+## Project V2
 
 So the forecast will be true 😁
 
@@ -231,7 +231,7 @@ So in Sum 450€
 | --- | --- | --- | --- | --- |
 | Motor + Propeller | [Flipsky Link](https://flipsky.net/collections/waterproof-motor/products/flipsky-inrunner-brushless-dc-65111-motor-160kv-3000w-for-surfing-boat-underwater-thruster-for-hydro-efoil) | 171$ | 30. October 2022 | - |
 | Controller | [Flipsky Link](https://flipsky.net/collections/electronic-products/products/mini-fsesc4-20-50a-base-on-vesc-widely-used-in-eskateboard-escooter-ebike) | 90$ | 30. October 2022 | - |
-| Bluetooth-Adapter | [Flipsky Link](https://flipsky.net/products/core51822-ble4-0-bluetooth-2-4g-wireless-module-nrf51822-onboard-ws82013?variant=8703117819964) | 26$ | 30. October 2022 | - |
+| Bluetooth-Adapter | [Flipsky Link](https://flipsky.net/products/core51822-ble4-0-bluetooth-2-4g-wireless-module-nrf51822-onboard-ws82013?variant=8703117819964) | 26$ | 30. October 2022 | This is optional but makes the config easier |
 
 So in Sum with shipping 344$ or 361€
 

@@ -223,10 +223,11 @@ In the configuration of 12S6P are 72 Cells so 1,3 kWh Capacity in theory. The ce
 | BMS | [Ebay Link](https://www.ebay.de/itm/124866339442) | 95€ | 13. January 2023 | - |
 | Charger| [AliExpress Link](https://de.aliexpress.com/item/1005003942168351.html?spm=a2g0o.order_list.order_list_main.5.21ef5c5fsMSNtn&gatewayAdapt=glo2deu) | 50€ | 14. January 2023 | 400W without balancing |
 | Connectors | [AliExpress Link](https://de.aliexpress.com/item/4001269695540.html?spm=a2g0o.order_list.order_list_main.5.21ef5c5f35rnWi&gatewayAdapt=glo2deu) | 27€ (5 pieces)| 14. January 2023 | Waterproof 4 Pin á 25A |
+| Cable | [AliExpress Link](https://de.aliexpress.com/item/4000095915418.html?spm=a2g0o.productlist.main.5.615f383fv6Ao8e&algo_pvid=081ac968-6c53-4ebb-b9a8-c191a613f5a8&algo_exp_id=081ac968-6c53-4ebb-b9a8-c191a613f5a8-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000027459905660%22%7D&pdp_npi=2%40dis%21EUR%217.96%214.77%21%21%21%21%21%40210217c716737237934064664d06bc%2112000027459905660%21sea&curPageLogUid=GjzmJMNhTIgf) | 24€ (2m Red, 2m Black)| 14. January 2023 | 7 AWG |
 
 
 
-So in Sum 527€
+So in Sum 551€
 
 
 ### Powertrain

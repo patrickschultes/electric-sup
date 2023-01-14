@@ -204,6 +204,37 @@ To change it I connected the controller via an Arduino Uno.
 3. Flash the arduino to "Arduino BLHeli Bootloader"
 4. Connect to the controller with the interface "**SILABS** BLHeli Bootloader (USB/COM)"
 
+
+## Prooject V2
+
+So the forecast will be true 😁
+
+### Battery
+
+I will build up an own battery and use the LG INR21700 M50T Cells: [Datasheet Link](https://drive.google.com/file/d/1JHFoAIexketoOInWRFahl89vgbPXum7t/view)
+
+In the configuration of 12S6P are 72 Cells so 1,3 kWh Capacity in theory. The cells can give continuously 3C so 15A in the configuration with 6P the Battery is usable till 90A. With 43V (12S * 3,6V) the Battery can be used till 3.9kW continuously. 
+
+| Function |Link | Price | Bought date | Comment |
+| --- | --- | --- | --- | --- |
+| Cells | [Nkon Link](https://www.nkon.nl/de/lg-m50lt.html) | 300€ (75 Cells) | 13. January 2023 | - |
+| 2x Spacer | [Nkon Link](https://www.nkon.nl/de/2x21700-battery-spacer-holder.html) | 33€ (74 pieces) | 13. January 2023 | - |
+| Battery Soldering Strip | [Nkon Link](https://www.nkon.nl/de/nikkel-battijersoldeerstrip-10mm-20mm.html) | 22€ (8m) | 13. January 2023 | - |
+| BMS | [Ebay Link](https://www.ebay.de/itm/124866339442) | 95€ | 13. January 2023 | - |
+
+So in Sum 450€
+
+
+### Powertrain
+
+| Function |Link | Price | Bought date | Comment |
+| --- | --- | --- | --- | --- |
+| Motor + Propeller | [Flipsky Link](https://flipsky.net/collections/waterproof-motor/products/flipsky-inrunner-brushless-dc-65111-motor-160kv-3000w-for-surfing-boat-underwater-thruster-for-hydro-efoil) | 171$ | 30. October 2022 | - |
+| Controller | [Flipsky Link](https://flipsky.net/collections/electronic-products/products/mini-fsesc4-20-50a-base-on-vesc-widely-used-in-eskateboard-escooter-ebike) | 90$ | 30. October 2022 | - |
+| Bluetooth-Adapter | [Flipsky Link](https://flipsky.net/products/core51822-ble4-0-bluetooth-2-4g-wireless-module-nrf51822-onboard-ws82013?variant=8703117819964) | 26$ | 30. October 2022 | - |
+
+So in Sum with shipping 344$ or 361€
+
 ## Forecast
 
 Because 5 km/h is still to slow I will exaggerate a bit 😁

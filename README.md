@@ -224,10 +224,11 @@ In the configuration of 12S6P are 72 Cells so 1,3 kWh Capacity in theory. The ce
 | Charger| [AliExpress Link](https://de.aliexpress.com/item/1005003942168351.html?spm=a2g0o.order_list.order_list_main.5.21ef5c5fsMSNtn&gatewayAdapt=glo2deu) | 50€ | 14. January 2023 | 400W without balancing |
 | Connectors | [AliExpress Link](https://de.aliexpress.com/item/4001269695540.html?spm=a2g0o.order_list.order_list_main.5.21ef5c5f35rnWi&gatewayAdapt=glo2deu) | 27€ (5 pieces)| 14. January 2023 | Waterproof 4 Pin á 25A |
 | Cable | [AliExpress Link](https://de.aliexpress.com/item/4000095915418.html?spm=a2g0o.productlist.main.5.615f383fv6Ao8e&algo_pvid=081ac968-6c53-4ebb-b9a8-c191a613f5a8&algo_exp_id=081ac968-6c53-4ebb-b9a8-c191a613f5a8-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000027459905660%22%7D&pdp_npi=2%40dis%21EUR%217.96%214.77%21%21%21%21%21%40210217c716737237934064664d06bc%2112000027459905660%21sea&curPageLogUid=GjzmJMNhTIgf) | 24€ (2m Red, 2m Black)| 14. January 2023 | 7 AWG |
+| Box | [Amazon Link](https://www.amazon.de/dp/B07KCH26TQ?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 50€ | 10. March 2023 | Size L |
+
+So in Sum 601€
 
 
-
-So in Sum 551€
 
 
 ### Powertrain
@@ -237,8 +238,29 @@ So in Sum 551€
 | Motor + Propeller | [Flipsky Link](https://flipsky.net/collections/waterproof-motor/products/flipsky-inrunner-brushless-dc-65111-motor-160kv-3000w-for-surfing-boat-underwater-thruster-for-hydro-efoil) | 171$ | 30. October 2022 | - |
 | Controller | [Flipsky Link](https://flipsky.net/collections/electronic-products/products/mini-fsesc4-20-50a-base-on-vesc-widely-used-in-eskateboard-escooter-ebike) | 90$ | 30. October 2022 | VESC 50A |
 | Bluetooth-Adapter | [Flipsky Link](https://flipsky.net/products/core51822-ble4-0-bluetooth-2-4g-wireless-module-nrf51822-onboard-ws82013?variant=8703117819964) | 26$ | 30. October 2022 | This is optional but makes the config easier |
+| Cooler | [Amazon Link](https://www.amazon.de/dp/B078MK5GG9?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 10€ | 23. February 2023 | - |
+| Crimps | [Amazon Link](hhttps://www.amazon.de/dp/B09SH3ZYJS?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 10€ | 23. February 2023 | - |
 
-So in Sum with shipping 344$ or 361€
+
+So in Sum with shipping 364$ or 381€
+
+### Mechanic
+
+| Function |Link | Price | Bought date | Comment |
+| --- | --- | --- | --- | --- |
+| Fin | [Amazon Link](https://www.amazon.de/dp/B096WVLNXG?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 10€ | 11. February 2023 | - |
+| Alu Holder | - | 25€ | 13. February 2023 | Lasered at a local manufacturer |
+
+You will find all CAD-Files in the CAD/V2 folder. 
+
+The idea was to build up a strong core from 5mm aluminium. This core will than be added by a wing of 3D-Printed PLA. 
+So in the first picture you see the aluminium core (here was the propeller faced in the driving direction, this is changed now)
+
+![Init_Mechanic](Pictures/V2/Init_Mechanic.jpg)
+
+Here is a picture with the PLA printed wing outlet on one site, how they look together and ready to drive: 
+
+![Wing](Pictures/V2/Wing_Case.jpg)
 
 ### Electric
 
